@@ -1,6 +1,0 @@
-
-* Magdalena restaurant
-
-- (browse-url-chromium "https://www.tripadvisor.com/Restaurant_Review-g1759678-d6408998-Reviews-Magdalena_Restaurant-Migdal_Galilee_Region_Northern_District.html")
-
-- (browse-url-chromium "https://magdalena.co.il/")
