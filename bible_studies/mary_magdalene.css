@@ -1,12 +1,9 @@
-
- /* img { */
- /* width: 100%; */
- /* } */
+/* img { */
+/* width: 100%; */
+/* } */
 
 body {
-
-background-color: lightgray;
-
+  background-color: turquoise;
 }
 
 .center {
@@ -17,22 +14,21 @@ background-color: lightgray;
 }
 
 h1 {
-text-align: center;
-color: white;
+  text-align: center;
+  color: white;
 }
 
 p {
-font-size: 25px;
-text-align: center;
-color: ; #BC8F8F;
+  font-size: 25px;
+  text-align: center;
+  color: blueviolet;
 }
 
 ol {
-font-size: 18 px;
-color:lightblue;
+  font-size: 18 px;
+  color: lightblue;
 }
 
 div {
-     background-color:black;
+  background-color: black;
 }
-
