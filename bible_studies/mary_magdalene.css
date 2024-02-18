@@ -1,9 +1,8 @@
-/* img { */
-/* width: 100%; */
-/* } */
-
 body {
-  background-color: turquoise;
+  background-color: #dddbcb;
+  border-style: solid;
+  border-width: 10px;
+  padding: 25px 25px 25px 25px;
 }
 
 .center {
@@ -21,7 +20,7 @@ h1 {
 p {
   font-size: 25px;
   text-align: center;
-  color: blueviolet;
+  color: #fccb06;
 }
 
 ol {
@@ -31,4 +30,8 @@ ol {
 
 div {
   background-color: black;
+}
+
+blockquote {
+  font-size: 10px;
 }
