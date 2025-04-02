@@ -60,7 +60,9 @@
 * diatheke aliases 
 
 ;; Note:
+
 ;; You can search Bible verses with my "diatheke aliases"
+
 ;; (find-fline "/home/vagner/lab_test/learn_elisp.org" "diatheke")
 
 - Tue Jan 23 11:07:28 PM -03 2024
